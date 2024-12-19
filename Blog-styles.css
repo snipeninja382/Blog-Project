@@ -60,7 +60,7 @@ body{
     display: flex;
     text-align: center;
     flex-wrap: wrap;
-    justify-content: center;
+    margin: 0 auto;
 }
 .Flex-container div{
     max-width: 450px;
